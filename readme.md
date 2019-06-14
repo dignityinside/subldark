@@ -1,14 +1,23 @@
 ## subldark
 
+![](screenshot.png)
+
 Sublime Text Dark like color scheme for PHPStorm and other JetBrains IDEs.
 
 ## Installation
 
 1. Clone repository or download `subldark.icls` file
-2. Go to Settings → Editor → Color Scheme
+2. File → Settings → Editor → Color Scheme
 3. Click on the gear icon
 4. Import Scheme...
 5. Select `subldark.icls`
+
+### Optional settings
+
+- File → Settings → Editor → Font: Fira Code, 15, 1.2
+- Disable View → Toolbar
+- Disable View → Tool window Bars
+- Disable View → Navigation Bar
 
 ## Contributing
 
